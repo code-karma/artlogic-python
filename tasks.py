@@ -57,7 +57,7 @@ def not_empty_has_numbers(inputStr):
     else:
         return False
 
-# split stock_number by delimiter (Task1)
+# split stock_number by delimiter (Task-1)
 def pull_stock_number_by_space(inputStr):
     split = stock_number.split(" ")
     count = 0
