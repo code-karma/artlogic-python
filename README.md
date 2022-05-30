@@ -12,6 +12,6 @@ Alternatively run it in a terminal following the steps below:
 
 ### Notes:
 
-It is worth mentioning that the solution would be much more elegant in OOP Python with access to the MySql DB and a data framework. It would require a couple of lines of code. Also, if I used PHP this would take no more than 1 hour to complete. 
+It is worth mentioning that the solution would be much more elegant in OOP Python with access to the MySql DB and a data framework. It would require a couple of lines of code. Also, if I used PHP this would take no more than 1 hour to complete but I learnt a bit more about Python and I am quite sure I could master it within weeks.
 
 
