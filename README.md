@@ -1,6 +1,6 @@
 # Artlogic Backend Python Task
 
-**Time spent on the Python tasks:** `3hrs`
+**Time spent on the Python tasks:** `2-3hrs`
 
 The easiest way to test the code would be to **copy** the `tasks.py` and **paste** into an online compiler like this one: [Python Online Compiler](https://www.programiz.com/python-programming/online-compiler/) 
 
